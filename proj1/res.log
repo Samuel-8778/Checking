@@ -1,0 +1,1144 @@
+2022-05-11 18:38:28,755  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-11 18:39:10,389 Initializing Jaeger Tracer with UDP reporter
+2022-05-11 18:39:10,390 Using selector: EpollSelector
+2022-05-11 18:39:10,392 Using sampler ConstSampler(True)
+2022-05-11 18:39:10,393 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7fe3faed31f0>[app_name=MATC project]
+2022-05-11 18:39:10,393 New employee Added
+2022-05-11 18:39:10,431 127.0.0.1 - - [11/May/2022 18:39:10] "POST /add_emp HTTP/1.1" 200 -
+2022-05-12 10:07:29,497  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 10:11:20,564  * Running on http://127.0.0.1:6000 (Press CTRL+C to quit)
+2022-05-12 10:11:20,565  * Restarting with stat
+2022-05-12 10:11:21,275  * Debugger is active!
+2022-05-12 10:11:21,367  * Debugger PIN: 275-257-994
+2022-05-12 10:17:13,718  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 10:17:42,181 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 10:17:42,189 Using selector: EpollSelector
+2022-05-12 10:17:42,193 Using sampler ConstSampler(True)
+2022-05-12 10:17:42,201 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7fee86232c40>[app_name=MATC project]
+2022-05-12 10:17:42,208 127.0.0.1 - - [12/May/2022 10:17:42] "[32mGET /swagger HTTP/1.1[0m" 308 -
+2022-05-12 10:17:42,256 127.0.0.1 - - [12/May/2022 10:17:42] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 10:17:42,406 127.0.0.1 - - [12/May/2022 10:17:42] "GET /swagger/swagger-ui.css HTTP/1.1" 200 -
+2022-05-12 10:17:42,407 127.0.0.1 - - [12/May/2022 10:17:42] "GET /swagger/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2022-05-12 10:17:42,409 127.0.0.1 - - [12/May/2022 10:17:42] "GET /swagger/swagger-ui-bundle.js HTTP/1.1" 200 -
+2022-05-12 10:17:44,022 127.0.0.1 - - [12/May/2022 10:17:44] "GET /static/swagger.json HTTP/1.1" 200 -
+2022-05-12 10:17:44,298 127.0.0.1 - - [12/May/2022 10:17:44] "GET /swagger/favicon-32x32.png HTTP/1.1" 200 -
+2022-05-12 10:19:35,223 New employee Added
+2022-05-12 10:19:35,259 127.0.0.1 - - [12/May/2022 10:19:35] "POST /add_emp HTTP/1.1" 200 -
+2022-05-12 10:19:36,767 New employee Added
+2022-05-12 10:19:36,778 127.0.0.1 - - [12/May/2022 10:19:36] "POST /add_emp HTTP/1.1" 200 -
+2022-05-12 10:21:36,640  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 10:22:20,840 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 10:22:20,843 Using selector: EpollSelector
+2022-05-12 10:22:20,843 Using sampler ConstSampler(True)
+2022-05-12 10:22:20,845 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7fd06c6b23d0>[app_name=MATC project]
+2022-05-12 10:22:20,846 New employee Added
+2022-05-12 10:22:20,870 127.0.0.1 - - [12/May/2022 10:22:20] "POST /add_emp HTTP/1.1" 200 -
+2022-05-12 10:23:17,361 New employee Added
+2022-05-12 10:23:17,373 127.0.0.1 - - [12/May/2022 10:23:17] "POST /add_emp HTTP/1.1" 200 -
+2022-05-12 10:23:27,741 Admin Entered
+2022-05-12 10:23:27,748 127.0.0.1 - - [12/May/2022 10:23:27] "GET /emp_all HTTP/1.1" 200 -
+2022-05-12 10:25:51,780 127.0.0.1 - - [12/May/2022 10:25:51] "PUT /per_put/1 HTTP/1.1" 200 -
+2022-05-12 10:34:07,120 127.0.0.1 - - [12/May/2022 10:34:07] "[33mGET / HTTP/1.1[0m" 404 -
+2022-05-12 10:34:07,278 127.0.0.1 - - [12/May/2022 10:34:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-05-12 10:46:53,869 New employee Added
+2022-05-12 10:46:53,884 127.0.0.1 - - [12/May/2022 10:46:53] "POST /add_emp HTTP/1.1" 200 -
+2022-05-12 10:47:30,815 New Person Added
+2022-05-12 10:47:30,837 127.0.0.1 - - [12/May/2022 10:47:30] "POST /add_per HTTP/1.1" 200 -
+2022-05-12 10:48:01,727 New Address Added
+2022-05-12 10:48:01,747 127.0.0.1 - - [12/May/2022 10:48:01] "POST /add_add HTTP/1.1" 200 -
+2022-05-12 10:51:28,255 New Address Added
+2022-05-12 10:51:28,273 127.0.0.1 - - [12/May/2022 10:51:28] "POST /add_add HTTP/1.1" 200 -
+2022-05-12 10:53:31,968 127.0.0.1 - - [12/May/2022 10:53:31] "GET /per_all HTTP/1.1" 200 -
+2022-05-12 10:55:18,358 New employee Added
+2022-05-12 10:55:18,374 127.0.0.1 - - [12/May/2022 10:55:18] "POST /add_emp HTTP/1.1" 200 -
+2022-05-12 10:55:52,129 New Person Added
+2022-05-12 10:55:52,142 Exception on /add_per [POST]
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`project1`.`person`, CONSTRAINT `person_ibfk_1` FOREIGN KEY (`employee_id`) REFERENCES `employee` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lenovo/MATC/proj1/app/views.py", line 33, in per_test
+    db.session.commit()
+  File "<string>", line 2, in commit
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 1435, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 829, in commit
+    self._prepare_impl()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 808, in _prepare_impl
+    self.session.flush()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3367, in flush
+    self._flush(objects)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3507, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3467, in _flush
+    flush_context.execute()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 456, in execute
+    rec.execute(self)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 630, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    _emit_insert_statements(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 1238, in _emit_insert_statements
+    result = connection._execute_20(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1631, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1498, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.IntegrityError: (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`project1`.`person`, CONSTRAINT `person_ibfk_1` FOREIGN KEY (`employee_id`) REFERENCES `employee` (`id`))')
+[SQL: INSERT INTO person (name, age, employee_id) VALUES (%(name)s, %(age)s, %(employee_id)s)]
+[parameters: {'name': 'Person-4', 'age': 58, 'employee_id': 5}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+2022-05-12 10:55:52,170 127.0.0.1 - - [12/May/2022 10:55:52] "[35m[1mPOST /add_per HTTP/1.1[0m" 500 -
+2022-05-12 10:56:12,253 New Person Added
+2022-05-12 10:56:12,268 Exception on /add_per [POST]
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`project1`.`person`, CONSTRAINT `person_ibfk_1` FOREIGN KEY (`employee_id`) REFERENCES `employee` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lenovo/MATC/proj1/app/views.py", line 33, in per_test
+    db.session.commit()
+  File "<string>", line 2, in commit
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 1435, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 829, in commit
+    self._prepare_impl()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 808, in _prepare_impl
+    self.session.flush()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3367, in flush
+    self._flush(objects)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3507, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3467, in _flush
+    flush_context.execute()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 456, in execute
+    rec.execute(self)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 630, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    _emit_insert_statements(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 1238, in _emit_insert_statements
+    result = connection._execute_20(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1631, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1498, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.IntegrityError: (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`project1`.`person`, CONSTRAINT `person_ibfk_1` FOREIGN KEY (`employee_id`) REFERENCES `employee` (`id`))')
+[SQL: INSERT INTO person (name, age, employee_id) VALUES (%(name)s, %(age)s, %(employee_id)s)]
+[parameters: {'name': 'Person-4', 'age': 18, 'employee_id': 10}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+2022-05-12 10:56:12,277 127.0.0.1 - - [12/May/2022 10:56:12] "[35m[1mPOST /add_per HTTP/1.1[0m" 500 -
+2022-05-12 10:56:17,494 New Person Added
+2022-05-12 10:56:17,510 Exception on /add_per [POST]
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry '1' for key 'person.employee_id'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lenovo/MATC/proj1/app/views.py", line 33, in per_test
+    db.session.commit()
+  File "<string>", line 2, in commit
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 1435, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 829, in commit
+    self._prepare_impl()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 808, in _prepare_impl
+    self.session.flush()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3367, in flush
+    self._flush(objects)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3507, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3467, in _flush
+    flush_context.execute()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 456, in execute
+    rec.execute(self)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 630, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    _emit_insert_statements(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 1238, in _emit_insert_statements
+    result = connection._execute_20(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1631, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1498, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.IntegrityError: (pymysql.err.IntegrityError) (1062, "Duplicate entry '1' for key 'person.employee_id'")
+[SQL: INSERT INTO person (name, age, employee_id) VALUES (%(name)s, %(age)s, %(employee_id)s)]
+[parameters: {'name': 'Person-4', 'age': 18, 'employee_id': 1}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+2022-05-12 10:56:17,519 127.0.0.1 - - [12/May/2022 10:56:17] "[35m[1mPOST /add_per HTTP/1.1[0m" 500 -
+2022-05-12 10:56:21,902 New Person Added
+2022-05-12 10:56:21,925 127.0.0.1 - - [12/May/2022 10:56:21] "POST /add_per HTTP/1.1" 200 -
+2022-05-12 10:57:54,659 New Address Added
+2022-05-12 10:57:54,680 127.0.0.1 - - [12/May/2022 10:57:54] "POST /add_add HTTP/1.1" 200 -
+2022-05-12 10:58:43,638 Admin login
+2022-05-12 10:58:43,654 Admin has to create token
+2022-05-12 10:58:43,659 127.0.0.1 - - [12/May/2022 10:58:43] "POST /admin_log HTTP/1.1" 200 -
+2022-05-12 11:00:14,669 Admin Entered
+2022-05-12 11:00:14,681 127.0.0.1 - - [12/May/2022 11:00:14] "GET /emp_all HTTP/1.1" 200 -
+2022-05-12 11:00:49,365 127.0.0.1 - - [12/May/2022 11:00:49] "GET /per_all HTTP/1.1" 200 -
+2022-05-12 11:01:08,296 127.0.0.1 - - [12/May/2022 11:01:08] "GET /add_all HTTP/1.1" 200 -
+2022-05-12 11:01:55,021 127.0.0.1 - - [12/May/2022 11:01:55] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 11:01:55,090 127.0.0.1 - - [12/May/2022 11:01:55] "[36mGET /swagger/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-12 11:01:55,093 127.0.0.1 - - [12/May/2022 11:01:55] "[36mGET /swagger/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-12 11:01:55,103 127.0.0.1 - - [12/May/2022 11:01:55] "[36mGET /swagger/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-12 11:01:56,938 127.0.0.1 - - [12/May/2022 11:01:56] "[36mGET /static/swagger.json HTTP/1.1[0m" 304 -
+2022-05-12 11:03:06,317 127.0.0.1 - - [12/May/2022 11:03:06] "GET /per_all HTTP/1.1" 200 -
+2022-05-12 11:03:13,346 127.0.0.1 - - [12/May/2022 11:03:13] "GET /per_all HTTP/1.1" 200 -
+2022-05-12 11:03:20,081 127.0.0.1 - - [12/May/2022 11:03:20] "GET /per_all HTTP/1.1" 200 -
+2022-05-12 11:03:42,945 Admin Entered
+2022-05-12 11:03:42,954 127.0.0.1 - - [12/May/2022 11:03:42] "GET /emp_all HTTP/1.1" 200 -
+2022-05-12 11:14:26,312 127.0.0.1 - - [12/May/2022 11:14:26] "PUT /emp_put/3 HTTP/1.1" 200 -
+2022-05-12 11:37:26,563 127.0.0.1 - - [12/May/2022 11:37:26] "OPTIONS /per_put/1 HTTP/1.1" 200 -
+2022-05-12 11:37:43,600 127.0.0.1 - - [12/May/2022 11:37:43] "OPTIONS /per_put/1 HTTP/1.1" 200 -
+2022-05-12 11:39:29,290  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 11:40:05,549 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 11:40:05,560 Using selector: EpollSelector
+2022-05-12 11:40:05,566 Using sampler ConstSampler(True)
+2022-05-12 11:40:05,578 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7ff425fc8f40>[app_name=MATC project]
+2022-05-12 11:40:05,630 127.0.0.1 - - [12/May/2022 11:40:05] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 11:40:05,769 127.0.0.1 - - [12/May/2022 11:40:05] "GET /swagger/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2022-05-12 11:40:05,770 127.0.0.1 - - [12/May/2022 11:40:05] "GET /swagger/swagger-ui-bundle.js HTTP/1.1" 200 -
+2022-05-12 11:40:05,779 127.0.0.1 - - [12/May/2022 11:40:05] "GET /swagger/swagger-ui.css HTTP/1.1" 200 -
+2022-05-12 11:40:06,221 127.0.0.1 - - [12/May/2022 11:40:06] "GET /static/swagger.json HTTP/1.1" 200 -
+2022-05-12 11:41:13,402  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 11:41:16,685 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 11:41:16,689 Using selector: EpollSelector
+2022-05-12 11:41:16,690 Using sampler ConstSampler(True)
+2022-05-12 11:41:16,692 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7fe02c060ee0>[app_name=MATC project]
+2022-05-12 11:41:16,703 127.0.0.1 - - [12/May/2022 11:41:16] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 11:41:16,759 127.0.0.1 - - [12/May/2022 11:41:16] "[36mGET /swagger/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-12 11:41:16,760 127.0.0.1 - - [12/May/2022 11:41:16] "[36mGET /swagger/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-12 11:41:16,764 127.0.0.1 - - [12/May/2022 11:41:16] "[36mGET /swagger/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-12 11:41:16,956 127.0.0.1 - - [12/May/2022 11:41:16] "GET /static/swagger.json HTTP/1.1" 200 -
+2022-05-12 11:41:16,977 127.0.0.1 - - [12/May/2022 11:41:16] "GET /swagger/favicon-32x32.png HTTP/1.1" 200 -
+2022-05-12 11:44:06,037 New employee Added
+2022-05-12 11:44:06,105 127.0.0.1 - - [12/May/2022 11:44:06] "POST /add_emp HTTP/1.1" 200 -
+2022-05-12 11:44:32,316 New Person Added
+2022-05-12 11:44:32,354 127.0.0.1 - - [12/May/2022 11:44:32] "POST /add_per HTTP/1.1" 200 -
+2022-05-12 11:44:51,010 New Address Added
+2022-05-12 11:44:51,062 127.0.0.1 - - [12/May/2022 11:44:51] "POST /add_add HTTP/1.1" 200 -
+2022-05-12 11:47:00,182 Admin login
+2022-05-12 11:47:00,210 Admin has to create token
+2022-05-12 11:47:00,215 127.0.0.1 - - [12/May/2022 11:47:00] "POST /admin_log HTTP/1.1" 200 -
+2022-05-12 11:47:57,889 Admin Entered
+2022-05-12 11:47:57,905 127.0.0.1 - - [12/May/2022 11:47:57] "GET /emp_all HTTP/1.1" 200 -
+2022-05-12 11:48:07,188 127.0.0.1 - - [12/May/2022 11:48:07] "GET /per_all HTTP/1.1" 200 -
+2022-05-12 11:48:13,677 127.0.0.1 - - [12/May/2022 11:48:13] "GET /add_all HTTP/1.1" 200 -
+2022-05-12 11:50:03,867 127.0.0.1 - - [12/May/2022 11:50:03] "[33mPUT /emp_put/%7Bid%7D?id=0 HTTP/1.1[0m" 404 -
+2022-05-12 11:50:19,626 127.0.0.1 - - [12/May/2022 11:50:19] "PUT /emp_put/1 HTTP/1.1" 200 -
+2022-05-12 11:51:36,666 127.0.0.1 - - [12/May/2022 11:51:36] "PUT /per_put/1?id=0 HTTP/1.1" 200 -
+2022-05-12 11:52:10,696 127.0.0.1 - - [12/May/2022 11:52:10] "PUT /add_put/1?id=0 HTTP/1.1" 200 -
+2022-05-12 11:53:02,867 127.0.0.1 - - [12/May/2022 11:53:02] "PUT /emp_put/1?id=0 HTTP/1.1" 200 -
+2022-05-12 11:54:17,247  Someone deleted the Employee
+2022-05-12 11:54:17,251 127.0.0.1 - - [12/May/2022 11:54:17] "DELETE /emp_del/0?id=0 HTTP/1.1" 200 -
+2022-05-12 11:54:27,184  Someone deleted the Person
+2022-05-12 11:54:27,190 127.0.0.1 - - [12/May/2022 11:54:27] "DELETE /per_del/0?id=0 HTTP/1.1" 200 -
+2022-05-12 11:54:34,280  Someone deleted the Address
+2022-05-12 11:54:34,286 127.0.0.1 - - [12/May/2022 11:54:34] "DELETE /add_del/0?id=0 HTTP/1.1" 200 -
+2022-05-12 11:55:09,631  Someone deleted the Employee
+2022-05-12 11:55:09,637 127.0.0.1 - - [12/May/2022 11:55:09] "DELETE /emp_del/0?id=0 HTTP/1.1" 200 -
+2022-05-12 11:55:18,197  Someone deleted the Address
+2022-05-12 11:55:18,204 127.0.0.1 - - [12/May/2022 11:55:18] "DELETE /add_del/0?id=1 HTTP/1.1" 200 -
+2022-05-12 11:55:29,396  Someone deleted the Person
+2022-05-12 11:55:29,401 127.0.0.1 - - [12/May/2022 11:55:29] "DELETE /per_del/0?id=1 HTTP/1.1" 200 -
+2022-05-12 11:56:07,385 127.0.0.1 - - [12/May/2022 11:56:07] "[31m[1mDELETE /add_emp HTTP/1.1[0m" 405 -
+2022-05-12 11:56:31,871 New employee Added
+2022-05-12 11:56:31,906 127.0.0.1 - - [12/May/2022 11:56:31] "POST /add_emp HTTP/1.1" 200 -
+2022-05-12 12:05:57,847  Someone deleted the Person
+2022-05-12 12:05:57,851 127.0.0.1 - - [12/May/2022 12:05:57] "DELETE /per_del/0?id=o HTTP/1.1" 200 -
+2022-05-12 12:16:18,343  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 12:16:45,186 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 12:16:45,206 Using selector: EpollSelector
+2022-05-12 12:16:45,210 Using sampler ConstSampler(True)
+2022-05-12 12:16:45,217 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7f4b439a7f40>[app_name=MATC project]
+2022-05-12 12:16:45,255 127.0.0.1 - - [12/May/2022 12:16:45] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 12:16:45,404 127.0.0.1 - - [12/May/2022 12:16:45] "[36mGET /swagger/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-12 12:16:45,405 127.0.0.1 - - [12/May/2022 12:16:45] "[36mGET /swagger/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-12 12:16:45,408 127.0.0.1 - - [12/May/2022 12:16:45] "[36mGET /swagger/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-12 12:16:45,822 127.0.0.1 - - [12/May/2022 12:16:45] "GET /static/swagger.json HTTP/1.1" 200 -
+2022-05-12 12:17:09,774 New Person Added
+2022-05-12 12:17:09,806 Exception on /add_per [POST]
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry '1' for key 'person.employee_id'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lenovo/MATC/proj1/app/views.py", line 33, in per_test
+    db.session.commit()
+  File "<string>", line 2, in commit
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 1435, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 829, in commit
+    self._prepare_impl()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 808, in _prepare_impl
+    self.session.flush()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3367, in flush
+    self._flush(objects)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3507, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3467, in _flush
+    flush_context.execute()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 456, in execute
+    rec.execute(self)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 630, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    _emit_insert_statements(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 1238, in _emit_insert_statements
+    result = connection._execute_20(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1631, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1498, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.IntegrityError: (pymysql.err.IntegrityError) (1062, "Duplicate entry '1' for key 'person.employee_id'")
+[SQL: INSERT INTO person (name, age, employee_id) VALUES (%(name)s, %(age)s, %(employee_id)s)]
+[parameters: {'name': 'Person-10', 'age': 25, 'employee_id': 1}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+2022-05-12 12:17:09,816 127.0.0.1 - - [12/May/2022 12:17:09] "[35m[1mPOST /add_per HTTP/1.1[0m" 500 -
+2022-05-12 12:17:16,740 New Person Added
+2022-05-12 12:17:16,756 Exception on /add_per [POST]
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry '2' for key 'person.employee_id'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lenovo/MATC/proj1/app/views.py", line 33, in per_test
+    db.session.commit()
+  File "<string>", line 2, in commit
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 1435, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 829, in commit
+    self._prepare_impl()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 808, in _prepare_impl
+    self.session.flush()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3367, in flush
+    self._flush(objects)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3507, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3467, in _flush
+    flush_context.execute()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 456, in execute
+    rec.execute(self)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 630, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    _emit_insert_statements(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 1238, in _emit_insert_statements
+    result = connection._execute_20(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1631, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1498, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.IntegrityError: (pymysql.err.IntegrityError) (1062, "Duplicate entry '2' for key 'person.employee_id'")
+[SQL: INSERT INTO person (name, age, employee_id) VALUES (%(name)s, %(age)s, %(employee_id)s)]
+[parameters: {'name': 'Person-10', 'age': 25, 'employee_id': 2}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+2022-05-12 12:17:16,759 127.0.0.1 - - [12/May/2022 12:17:16] "[35m[1mPOST /add_per HTTP/1.1[0m" 500 -
+2022-05-12 12:17:21,857 New Person Added
+2022-05-12 12:17:21,891 127.0.0.1 - - [12/May/2022 12:17:21] "POST /add_per HTTP/1.1" 200 -
+2022-05-12 12:18:00,100 127.0.0.1 - - [12/May/2022 12:18:00] "PUT /emp_put/1?id=1 HTTP/1.1" 200 -
+2022-05-12 12:19:12,295  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 12:19:17,630 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 12:19:17,650 Using selector: EpollSelector
+2022-05-12 12:19:17,652 Using sampler ConstSampler(True)
+2022-05-12 12:19:17,654 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7fbbedf8df40>[app_name=MATC project]
+2022-05-12 12:19:17,668 127.0.0.1 - - [12/May/2022 12:19:17] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 12:19:17,730 127.0.0.1 - - [12/May/2022 12:19:17] "[36mGET /swagger/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-12 12:19:17,735 127.0.0.1 - - [12/May/2022 12:19:17] "[36mGET /swagger/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-12 12:19:17,745 127.0.0.1 - - [12/May/2022 12:19:17] "[36mGET /swagger/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-12 12:19:18,357 127.0.0.1 - - [12/May/2022 12:19:18] "GET /static/swagger.json HTTP/1.1" 200 -
+2022-05-12 12:19:18,364 127.0.0.1 - - [12/May/2022 12:19:18] "[36mGET /swagger/favicon-32x32.png HTTP/1.1[0m" 304 -
+2022-05-12 12:19:27,551 127.0.0.1 - - [12/May/2022 12:19:27] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 12:19:27,611 127.0.0.1 - - [12/May/2022 12:19:27] "[36mGET /swagger/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-12 12:19:27,630 127.0.0.1 - - [12/May/2022 12:19:27] "[36mGET /swagger/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-12 12:19:27,635 127.0.0.1 - - [12/May/2022 12:19:27] "[36mGET /swagger/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-12 12:19:27,837 127.0.0.1 - - [12/May/2022 12:19:27] "[36mGET /static/swagger.json HTTP/1.1[0m" 304 -
+2022-05-12 12:19:27,852 127.0.0.1 - - [12/May/2022 12:19:27] "[36mGET /swagger/favicon-32x32.png HTTP/1.1[0m" 304 -
+2022-05-12 12:20:45,544  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 12:20:48,367 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 12:20:48,375 Using selector: EpollSelector
+2022-05-12 12:20:48,378 Using sampler ConstSampler(True)
+2022-05-12 12:20:48,383 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7f2aa83bbee0>[app_name=MATC project]
+2022-05-12 12:20:48,412 127.0.0.1 - - [12/May/2022 12:20:48] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 12:20:48,557 127.0.0.1 - - [12/May/2022 12:20:48] "[36mGET /swagger/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-12 12:20:48,583 127.0.0.1 - - [12/May/2022 12:20:48] "[36mGET /swagger/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-12 12:20:48,584 127.0.0.1 - - [12/May/2022 12:20:48] "[36mGET /swagger/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-12 12:20:48,715 127.0.0.1 - - [12/May/2022 12:20:48] "GET /static/swagger.json HTTP/1.1" 200 -
+2022-05-12 12:20:48,735 127.0.0.1 - - [12/May/2022 12:20:48] "[36mGET /swagger/favicon-32x32.png HTTP/1.1[0m" 304 -
+2022-05-12 12:21:03,865 127.0.0.1 - - [12/May/2022 12:21:03] "[33mDELETE /per_del?id=1 HTTP/1.1[0m" 404 -
+2022-05-12 12:23:13,016  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 12:23:15,390 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 12:23:15,395 Using selector: EpollSelector
+2022-05-12 12:23:15,397 Using sampler ConstSampler(True)
+2022-05-12 12:23:15,398 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7fd0e96f1e20>[app_name=MATC project]
+2022-05-12 12:23:15,411 127.0.0.1 - - [12/May/2022 12:23:15] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 12:23:15,495 127.0.0.1 - - [12/May/2022 12:23:15] "[36mGET /swagger/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-12 12:23:15,498 127.0.0.1 - - [12/May/2022 12:23:15] "[36mGET /swagger/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-12 12:23:15,510 127.0.0.1 - - [12/May/2022 12:23:15] "[36mGET /swagger/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-12 12:23:15,687 127.0.0.1 - - [12/May/2022 12:23:15] "GET /static/swagger.json HTTP/1.1" 200 -
+2022-05-12 12:23:15,699 127.0.0.1 - - [12/May/2022 12:23:15] "[36mGET /swagger/favicon-32x32.png HTTP/1.1[0m" 304 -
+2022-05-12 12:23:59,149  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 12:24:00,995 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 12:24:00,998 Using selector: EpollSelector
+2022-05-12 12:24:00,999 Using sampler ConstSampler(True)
+2022-05-12 12:24:01,002 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7fcb750d3ee0>[app_name=MATC project]
+2022-05-12 12:24:01,012 127.0.0.1 - - [12/May/2022 12:24:01] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 12:24:01,051 127.0.0.1 - - [12/May/2022 12:24:01] "[36mGET /swagger/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-12 12:24:01,053 127.0.0.1 - - [12/May/2022 12:24:01] "[36mGET /swagger/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-12 12:24:01,059 127.0.0.1 - - [12/May/2022 12:24:01] "[36mGET /swagger/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-12 12:24:01,218 127.0.0.1 - - [12/May/2022 12:24:01] "GET /static/swagger.json HTTP/1.1" 200 -
+2022-05-12 12:24:01,235 127.0.0.1 - - [12/May/2022 12:24:01] "[36mGET /swagger/favicon-32x32.png HTTP/1.1[0m" 304 -
+2022-05-12 12:24:07,849 127.0.0.1 - - [12/May/2022 12:24:07] "[33mDELETE /per_del HTTP/1.1[0m" 404 -
+2022-05-12 12:24:25,453 127.0.0.1 - - [12/May/2022 12:24:25] "[33mDELETE /add_del HTTP/1.1[0m" 404 -
+2022-05-12 12:24:47,302 127.0.0.1 - - [12/May/2022 12:24:47] "PUT /emp_put/1?id=1 HTTP/1.1" 200 -
+2022-05-12 12:25:38,118 Admin Entered
+2022-05-12 12:25:38,130 127.0.0.1 - - [12/May/2022 12:25:38] "GET /emp_all HTTP/1.1" 200 -
+2022-05-12 12:26:39,561  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 12:26:42,020 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 12:26:42,035 Using selector: EpollSelector
+2022-05-12 12:26:42,036 Using sampler ConstSampler(True)
+2022-05-12 12:26:42,039 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7fa227b3ae20>[app_name=MATC project]
+2022-05-12 12:26:42,054 127.0.0.1 - - [12/May/2022 12:26:42] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 12:26:42,123 127.0.0.1 - - [12/May/2022 12:26:42] "[36mGET /swagger/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-12 12:26:42,129 127.0.0.1 - - [12/May/2022 12:26:42] "[36mGET /swagger/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-12 12:26:42,135 127.0.0.1 - - [12/May/2022 12:26:42] "[36mGET /swagger/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-12 12:26:42,441 127.0.0.1 - - [12/May/2022 12:26:42] "GET /static/swagger.json HTTP/1.1" 200 -
+2022-05-12 12:26:42,464 127.0.0.1 - - [12/May/2022 12:26:42] "[36mGET /swagger/favicon-32x32.png HTTP/1.1[0m" 304 -
+2022-05-12 12:26:49,708 127.0.0.1 - - [12/May/2022 12:26:49] "[33mDELETE /per_del?id=1 HTTP/1.1[0m" 404 -
+2022-05-12 12:27:24,566  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 12:27:28,077 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 12:27:28,084 Using selector: EpollSelector
+2022-05-12 12:27:28,087 Using sampler ConstSampler(True)
+2022-05-12 12:27:28,092 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7f4a5fc61ee0>[app_name=MATC project]
+2022-05-12 12:27:28,118 127.0.0.1 - - [12/May/2022 12:27:28] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 12:27:28,241 127.0.0.1 - - [12/May/2022 12:27:28] "[36mGET /swagger/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-12 12:27:28,280 127.0.0.1 - - [12/May/2022 12:27:28] "[36mGET /swagger/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-12 12:27:28,292 127.0.0.1 - - [12/May/2022 12:27:28] "[36mGET /swagger/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-12 12:27:28,512 127.0.0.1 - - [12/May/2022 12:27:28] "GET /static/swagger.json HTTP/1.1" 200 -
+2022-05-12 12:27:28,524 127.0.0.1 - - [12/May/2022 12:27:28] "[36mGET /swagger/favicon-32x32.png HTTP/1.1[0m" 304 -
+2022-05-12 12:27:35,921 127.0.0.1 - - [12/May/2022 12:27:35] "DELETE /per_del/1?id=1 HTTP/1.1" 200 -
+2022-05-12 12:28:16,187  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 12:28:23,618 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 12:28:23,621 Using selector: EpollSelector
+2022-05-12 12:28:23,622 Using sampler ConstSampler(True)
+2022-05-12 12:28:23,625 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7f8e901f9bb0>[app_name=MATC project]
+2022-05-12 12:28:23,688 127.0.0.1 - - [12/May/2022 12:28:23] "DELETE /add_del/1 HTTP/1.1" 200 -
+2022-05-12 12:28:31,177 127.0.0.1 - - [12/May/2022 12:28:31] "DELETE /emp_del/1 HTTP/1.1" 200 -
+2022-05-12 12:43:33,221  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 12:45:00,690  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 15:06:14,678  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 15:07:09,287 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 15:07:09,288 Using selector: EpollSelector
+2022-05-12 15:07:09,289 Using sampler ConstSampler(False)
+2022-05-12 15:07:09,290 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7f425ec3d3d0>[app_name=MATCpro]
+2022-05-12 15:07:09,296 127.0.0.1 - - [12/May/2022 15:07:09] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 15:07:09,342 127.0.0.1 - - [12/May/2022 15:07:09] "[36mGET /swagger/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-12 15:07:09,347 127.0.0.1 - - [12/May/2022 15:07:09] "[36mGET /swagger/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-12 15:07:09,351 127.0.0.1 - - [12/May/2022 15:07:09] "[36mGET /swagger/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-12 15:07:09,537 127.0.0.1 - - [12/May/2022 15:07:09] "GET /static/swagger.json HTTP/1.1" 200 -
+2022-05-12 15:09:07,366  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 15:09:58,625  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 15:15:05,670 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 15:15:05,679 Using selector: EpollSelector
+2022-05-12 15:15:05,683 Using sampler ConstSampler(False)
+2022-05-12 15:15:05,691 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7fb7a829ceb0>[app_name=MATCpro]
+2022-05-12 15:15:05,722 127.0.0.1 - - [12/May/2022 15:15:05] "GET /swagger/ HTTP/1.1" 200 -
+2022-05-12 15:15:05,764 127.0.0.1 - - [12/May/2022 15:15:05] "[36mGET /swagger/swagger-ui.css HTTP/1.1[0m" 304 -
+2022-05-12 15:15:05,764 127.0.0.1 - - [12/May/2022 15:15:05] "[36mGET /swagger/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2022-05-12 15:15:05,767 127.0.0.1 - - [12/May/2022 15:15:05] "[36mGET /swagger/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2022-05-12 15:15:05,843 127.0.0.1 - - [12/May/2022 15:15:05] "[36mGET /static/swagger.json HTTP/1.1[0m" 304 -
+2022-05-12 15:15:05,848 127.0.0.1 - - [12/May/2022 15:15:05] "[36mGET /swagger/favicon-32x32.png HTTP/1.1[0m" 304 -
+2022-05-12 15:15:22,199 New employee Added
+2022-05-12 15:15:22,200 127.0.0.1 - - [12/May/2022 15:15:22] "[31m[1mPOST /add_emp HTTP/1.1[0m" 400 -
+2022-05-12 15:15:24,085 New employee Added
+2022-05-12 15:15:24,086 127.0.0.1 - - [12/May/2022 15:15:24] "[31m[1mPOST /add_emp HTTP/1.1[0m" 400 -
+2022-05-12 15:16:24,457  * Running on http://127.0.0.1:6000 (Press CTRL+C to quit)
+2022-05-12 15:16:24,458  * Restarting with stat
+2022-05-12 15:16:24,915  * Debugger is active!
+2022-05-12 15:16:24,916  * Debugger PIN: 275-257-994
+2022-05-12 15:22:25,509  * Detected change in '/home/lenovo/MATC/proj1/app/views.py', reloading
+2022-05-12 15:22:25,628  * Restarting with stat
+2022-05-12 15:22:26,572  * Debugger is active!
+2022-05-12 15:22:26,585  * Debugger PIN: 275-257-994
+2022-05-12 15:24:20,708  * Detected change in '/home/lenovo/MATC/proj1/app/config.py', reloading
+2022-05-12 15:24:20,822  * Restarting with stat
+2022-05-12 15:37:12,921  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-05-12 15:37:21,336 Initializing Jaeger Tracer with UDP reporter
+2022-05-12 15:37:21,337 Using selector: EpollSelector
+2022-05-12 15:37:21,338 Using sampler ConstSampler(False)
+2022-05-12 15:37:21,339 opentracing.tracer initialized to <jaeger_client.tracer.Tracer object at 0x7f3c423f6bb0>[app_name=MATCpro]
+2022-05-12 15:37:21,359 127.0.0.1 - - [12/May/2022 15:37:21] "GET /emp_all HTTP/1.1" 200 -
+2022-05-12 15:42:03,504 New Address Added
+2022-05-12 15:42:03,533 Exception on /add_add [POST]
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`project1`.`address`, CONSTRAINT `address_ibfk_1` FOREIGN KEY (`employee_id`) REFERENCES `employee` (`id`))')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/lenovo/MATC/proj1/app/views.py", line 54, in add_test
+    db.session.add(add_per)
+  File "<string>", line 2, in commit
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 1435, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 829, in commit
+    self._prepare_impl()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 808, in _prepare_impl
+    self.session.flush()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3367, in flush
+    self._flush(objects)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3507, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3467, in _flush
+    flush_context.execute()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 456, in execute
+    rec.execute(self)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 630, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    _emit_insert_statements(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 1238, in _emit_insert_statements
+    result = connection._execute_20(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1631, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1498, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.IntegrityError: (pymysql.err.IntegrityError) (1452, 'Cannot add or update a child row: a foreign key constraint fails (`project1`.`address`, CONSTRAINT `address_ibfk_1` FOREIGN KEY (`employee_id`) REFERENCES `employee` (`id`))')
+[SQL: INSERT INTO address (`role`, employee_id) VALUES (%(role)s, %(employee_id)s)]
+[parameters: {'role': 'Python Dev', 'employee_id': 1}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lenovo/MATC/proj1/app/views.py", line 59, in add_test
+    except:
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/json/__init__.py", line 301, in jsonify
+    f"{dumps(data, indent=indent, separators=separators)}\n",
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/json/__init__.py", line 131, in dumps
+    return _json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/json/__init__.py", line 50, in default
+    return super().default(o)
+  File "/usr/lib/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type set is not JSON serializable
+2022-05-12 15:42:03,551 127.0.0.1 - - [12/May/2022 15:42:03] "[35m[1mPOST /add_add HTTP/1.1[0m" 500 -
+2022-05-12 15:42:13,678 New Address Added
+2022-05-12 15:42:13,711 127.0.0.1 - - [12/May/2022 15:42:13] "POST /add_add HTTP/1.1" 200 -
+2022-05-12 15:45:00,689 New Person Added
+2022-05-12 15:45:00,705 Add Person session failed
+2022-05-12 15:45:00,706 Exception on /add_per [POST]
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry '3' for key 'person.employee_id'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/lenovo/MATC/proj1/app/views.py", line 36, in per_test
+    db.session.add(add_per)
+  File "<string>", line 2, in commit
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 1435, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 829, in commit
+    self._prepare_impl()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 808, in _prepare_impl
+    self.session.flush()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3367, in flush
+    self._flush(objects)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3507, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3467, in _flush
+    flush_context.execute()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 456, in execute
+    rec.execute(self)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 630, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    _emit_insert_statements(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 1238, in _emit_insert_statements
+    result = connection._execute_20(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1631, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1498, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.IntegrityError: (pymysql.err.IntegrityError) (1062, "Duplicate entry '3' for key 'person.employee_id'")
+[SQL: INSERT INTO person (name, age, employee_id) VALUES (%(name)s, %(age)s, %(employee_id)s)]
+[parameters: {'name': 'Person-4', 'age': 25, 'employee_id': 3}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lenovo/MATC/proj1/app/views.py", line 41, in per_test
+    print(v)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/json/__init__.py", line 301, in jsonify
+    f"{dumps(data, indent=indent, separators=separators)}\n",
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/json/__init__.py", line 131, in dumps
+    return _json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/json/__init__.py", line 50, in default
+    return super().default(o)
+  File "/usr/lib/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type set is not JSON serializable
+2022-05-12 15:45:00,707 127.0.0.1 - - [12/May/2022 15:45:00] "[35m[1mPOST /add_per HTTP/1.1[0m" 500 -
+2022-05-12 15:45:02,696 New Person Added
+2022-05-12 15:45:02,711 Add Person session failed
+2022-05-12 15:45:02,712 Exception on /add_per [POST]
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry '3' for key 'person.employee_id'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/lenovo/MATC/proj1/app/views.py", line 36, in per_test
+    db.session.add(add_per)
+  File "<string>", line 2, in commit
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 1435, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 829, in commit
+    self._prepare_impl()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 808, in _prepare_impl
+    self.session.flush()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3367, in flush
+    self._flush(objects)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3507, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/session.py", line 3467, in _flush
+    flush_context.execute()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 456, in execute
+    rec.execute(self)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/unitofwork.py", line 630, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    _emit_insert_statements(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/orm/persistence.py", line 1238, in _emit_insert_statements
+    result = connection._execute_20(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1631, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1498, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.IntegrityError: (pymysql.err.IntegrityError) (1062, "Duplicate entry '3' for key 'person.employee_id'")
+[SQL: INSERT INTO person (name, age, employee_id) VALUES (%(name)s, %(age)s, %(employee_id)s)]
+[parameters: {'name': 'Person-4', 'age': 25, 'employee_id': 3}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lenovo/MATC/proj1/app/views.py", line 41, in per_test
+    print(v)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/json/__init__.py", line 301, in jsonify
+    f"{dumps(data, indent=indent, separators=separators)}\n",
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/json/__init__.py", line 131, in dumps
+    return _json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.9/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/usr/lib/python3.9/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.9/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/lenovo/PycharmProjects/pythonProject/pythonProject/MATC/lib/python3.9/site-packages/flask/json/__init__.py", line 50, in default
+    return super().default(o)
+  File "/usr/lib/python3.9/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type set is not JSON serializable
+2022-05-12 15:45:02,713 127.0.0.1 - - [12/May/2022 15:45:02] "[35m[1mPOST /add_per HTTP/1.1[0m" 500 -

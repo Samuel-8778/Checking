@@ -1,0 +1,66 @@
+2022-05-17 10:50:51,319   ERROR   views    HELLOOO
+2022-05-17 11:48:44,966   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:52:34,762   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:54:07,697   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:54:08,731   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:54:52,146   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:54:57,952   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:54:58,897   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:55:28,476   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:55:29,484   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:55:52,703   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:56:13,759   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:56:14,716   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:58:01,376   CRITICAL   user_auth    JWT session Failed
+2022-05-17 11:58:40,539   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:00:04,652   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:00:05,617   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:00:59,892   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:01:00,950   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:01:30,315   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:01:31,610   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:02:22,920   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:02:52,421   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:04:02,661   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:04:03,536   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:04:04,167   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:04:56,982   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:04:57,864   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:04:58,506   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:05:27,313   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:05:28,208   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:05:28,924   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:05:29,223   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:05:29,527   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:06:35,551   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:21:57,568   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:24:12,770   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:24:20,458   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:24:21,446   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:24:22,577   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:28:24,820   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:28:25,651   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:28:26,388   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:29:57,627   CRITICAL   user_auth    JWT session Failed
+2022-05-17 12:31:31,633   CRITICAL   user_auth    JWT session Failed
+2022-05-17 13:58:47,212   WARNING   views    Function failed (get person)
+2022-05-17 13:59:01,020   WARNING   views    Function failed (get person)
+2022-05-17 14:05:06,308   WARNING   views    Employee deleted successfully
+2022-05-18 05:46:11,939   WARNING   views    Function failed (get employee)
+2022-05-18 06:26:03,222   WARNING   views    Employee Posting Failed
+2022-05-18 06:26:37,723   WARNING   views    Employee Posting Failed
+2022-05-18 06:30:39,303   WARNING   views    Employee Posting Failed
+2022-05-18 06:31:05,238   WARNING   views    Employee Posting Failed
+2022-05-18 06:31:06,511   WARNING   views    Employee Posting Failed
+2022-05-18 07:12:34,712   WARNING   tasks    Employee Posting Failed
+2022-05-18 07:13:02,374   WARNING   tasks    Employee Posting Failed
+2022-05-18 07:13:24,843   WARNING   tasks    Employee Posting Failed
+2022-05-18 07:14:10,015   WARNING   tasks    Employee Posting Failed
+2022-05-18 07:14:18,958   WARNING   tasks    Employee Posting Failed
+2022-05-18 08:20:31,185   WARNING   views    Person Not allowed for getting 
+2022-05-18 08:20:31,185   CRITICAL   views    Token Invalid
+2022-05-18 08:21:07,006   WARNING   views    Person Not allowed for getting 
+2022-05-18 08:21:07,006   CRITICAL   views    Token Invalid
+2022-05-18 08:23:39,536   WARNING   views    Person Not allowed for getting 
+2022-05-18 08:23:39,536   CRITICAL   views    Token Invalid
+2022-05-18 08:25:02,859   CRITICAL   views    Token Invalid
